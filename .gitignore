@@ -4,3 +4,5 @@ auto-wallpaper
 # 忽略可能产生的临时文件
 *.swp
 *~
+go.mod
+go.sum
